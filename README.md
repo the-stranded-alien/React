@@ -10,4 +10,6 @@
 
 #### 04_API => Using an API With React
 
-#### 05_Form => How to Handle Forms, Data Persistence with API Requests, Communication using Context System
+#### 05_Form => How to Handle Forms, Data Persistence with API Requests
+
+#### 06_Context => Communication using Context System
