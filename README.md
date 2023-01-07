@@ -12,4 +12,6 @@
 
 #### 05_Form => How to Handle Forms, Data Persistence with API Requests
 
-#### 06_Context => Communication using Context System
+#### 06_Context => Communication using Context System, Deeper Dive into Hooks (Stale References, useCallback and Cleanup Function)
+
+#### 07_Routing => Custom Navigation and Routing System
