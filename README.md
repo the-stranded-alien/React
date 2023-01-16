@@ -14,4 +14,4 @@
 
 #### 06_Context => Communication using Context System, Deeper Dive into Hooks (Stale References, useCallback and Cleanup Function)
 
-#### 07_Routing => Custom Navigation and Routing System, Mastering the State Design Process, Practicing Props and State Design, Making Navigation Reusable, Creating Portals with ReactDOM
+#### 07_Routing => Custom Navigation and Routing System, Mastering the State Design Process, Practicing Props and State Design, Making Navigation Reusable, Creating Portals with ReactDOM, Making a Feature-Full Data Table, Getting Clever with Data Sorting
