@@ -15,7 +15,8 @@
     + Using an API With React
 
 5. 05_form
-    + How to Handle Forms, Data Persistence with API Requests
+    + How to Handle Forms
+    + Data Persistence with API Requests
 
 6. 06_context
     + Communication using Context System
