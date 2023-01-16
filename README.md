@@ -31,3 +31,6 @@
     + Making a Feature-Full Data Table
     + Getting Clever with Data Sorting
     + Custom Hooks in Depth
+
+8. 08_reducers
+    + Into the World of Reducers
