@@ -36,4 +36,7 @@
     + Into the World of Reducers
 
 9. 09_redux_toolkit
-    + Dive Into Redux Toolkit    
+    + Dive Into Redux Toolkit
+
+10. 10_multiple_slices_rtk
+    + Managing Multiple Slices with Redux Toolkit        
