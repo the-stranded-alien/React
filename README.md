@@ -34,3 +34,6 @@
 
 8. 08_reducers
     + Into the World of Reducers
+
+9. 09_redux_toolkit
+    + Dive Into Redux Toolkit    
