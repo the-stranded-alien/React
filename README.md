@@ -40,3 +40,6 @@
 
 10. 10_multiple_slices_rtk
     + Managing Multiple Slices with Redux Toolkit        
+
+11. 11_async_thunks
+    + Interfacing with API's Using Async Thunks
