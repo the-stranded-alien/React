@@ -1,19 +1,22 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Myra"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Ian Mohr",
+      "id": 4
+    },
+    {
+      "name": "Jeremiah Anderson II",
+      "id": 5
+    },
+    {
+      "name": "Conrad Koelpin",
+      "id": 6
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "albums": [],
+  "photos": []
 }
