@@ -43,3 +43,4 @@
 
 11. 11_async_thunks
     + Interfacing with API's Using Async Thunks
+    + Modern Async with Redux Toolkit Query
